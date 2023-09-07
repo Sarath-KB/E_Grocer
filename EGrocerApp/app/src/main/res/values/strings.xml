@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EDeliver</string>
+
+    <string name="ip">192.168.1.6:8084</string>
+</resources>
